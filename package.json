@@ -1,0 +1,16 @@
+{
+  "name": "year-month-day",
+  "version": "0.0.1",
+  "description": "年月日三级联动,六级联动",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\t"
+  },
+  "author": "zsp",
+  "license": "ISC",
+  "dependencies": {}
+}
