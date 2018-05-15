@@ -18,7 +18,7 @@
  ymd.init();
 </script>
 ```
-# 年月日四级联动
+# 年月日六级联动
 ## html格式
 ```
 <select name="" id="year"></select>
